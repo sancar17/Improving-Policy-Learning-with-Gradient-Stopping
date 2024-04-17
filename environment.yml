@@ -16,3 +16,4 @@ dependencies:
     - wandb
     - matplotlib
     - protobuf==3.20.0
+    - GPUtil
