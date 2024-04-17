@@ -14,3 +14,5 @@ dependencies:
     - usd-core==22.3
     - gym
     - wandb
+    - matplotlib
+    - protobuf==3.20.0
