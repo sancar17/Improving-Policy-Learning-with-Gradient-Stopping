@@ -13,3 +13,4 @@ dependencies:
     - urdfpy==0.0.22
     - usd-core==22.3
     - gym
+    - wandb
